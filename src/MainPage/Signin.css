@@ -1,0 +1,58 @@
+.login {
+
+    margin-bottom: 20px;
+    width: 101.04px;
+    height: 40px;
+}
+
+.fullied {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 100vh;
+    padding-bottom: 150px;
+}
+
+.ipsum {
+    width: 516px;
+    height: 123px;
+    font-family: 'Roboto, sans-serif';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+    text-align: center;
+    margin-left: 70px;
+}
+
+.google {
+    background-color: #597EF7;
+    color: white;
+    border: none;
+    padding: 0;
+    height: 50px;
+    width: 300px;
+    display: flex;
+    border-radius: 5px;
+    margin-top: 30px;
+
+}
+
+.click {
+    background-color: #FFFFFF;
+    padding: 9px;
+    border-radius: 5px;
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.using {
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 50;
+}
